@@ -9,8 +9,12 @@ Tag.init(
     id: {
       type: DataTypes.INTEGER,
       primaryKey: true,
-      autoIncrement : true
+      autoIncrement : true,
+      allowNull: false
     },
+    tag_Name: {
+      type: DataTypes.STRING,
+    }
   },
   {
     sequelize,
