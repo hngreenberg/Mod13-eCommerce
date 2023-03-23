@@ -101,4 +101,3 @@ Category.destroy({
 });
 
 module.exports = router;
-
