@@ -23,6 +23,6 @@ The main points of acceptance criteria are:
 
 Github URL: https://github.com/hngreenberg/Mod13-eCommerce
 
-Video Demonstration: 
+Video Demonstration: https://drive.google.com/file/d/1tRi2_XUsmwposruGDUrmbvBobtJz6e7r/view
 
-Images: 
+
